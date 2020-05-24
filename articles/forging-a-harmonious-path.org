@@ -1,0 +1,16 @@
+#+title: Forging a Harmonious Path
+#+date: <2020-05-23 Sat>
+#+page-type: article
+#+filetags: :game-development:scheme:creativity:
+
+It's been a long time since I've worked on a personal project that excites me, one where I can see a real path forward.  Since late February I've been experimenting with [[https://github.com/gambit/gambit][Gambit Scheme]], a mature Scheme implementation that transpiles to a number of languages, C/C++ and JavaScript being the most interesting.  The promise of producing cross-platform, native binaries with the elegance of Scheme was very attractive to me so I decided to see what I could do with it.
+
+I started using Gambit to experiment with some long-held ideas for how to write a 2D game engine using functional programming patterns.  Hacking on this project over the last few months has taught me a lot and instilled a strong desire to ship a small-scale indie game using the new engine.  I'll share more details on that project in a future post.
+
+I've been writing games on and off in my free time since the late 90's.  I've always found games to be the most rewarding kind of project because the technical work is interesting and you end up with a really cool (and possibly fun) result.  It's also a nice way to integrate a few different creative pursuits: programming, writing, music, and art.  It became clear to me recently that the most fulfilling work that I can do in my free time is to make games so that I can exercise my creativity in all of these areas.
+
+Art has always been my weakest skill.  I do have the ability to imagine what I'd like to create but I don't yet have the skills to fully represent that vision in pixels.  These new game projects give me the motivation to learn, though.  I'm planning to share the art that I'm making so that others can see my progression over time and hopefully decide that they might be able to do it too.
+
+One of the things I'm most excited about is how I plan to develop and release these games in a very open way.  I'll talk about my release plans in detail in another post, but for now I'll just say that I'm feeling very nostalgic for the old shareware days of the early 90s.  My desire is to blend the distribution model from that era with [[https://en.wikipedia.org/wiki/Copyleft][copyleft]] licenses to create something interesting.  It could be a risky experiment, but a personally inspiring one nonetheless.
+
+If you're interested in hearing more as things progress, follow me on Twitter at [[https://twitter.com/daviwil][@daviwil]] or subscribe to the [[/rss.xml][RSS feed]].
