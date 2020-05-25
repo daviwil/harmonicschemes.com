@@ -3,13 +3,12 @@
  */
 
 html {
-
-  font-size: 11px;
+  font-size: 12px;
 }
 
 @media screen and (max-width: 767px) {
   html {
-    font-size: 11px;
+    font-size: 12px;
   }
 }
 
