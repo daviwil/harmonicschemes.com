@@ -178,6 +178,10 @@
     `(html (@ (lang "en"))
            (head
             "<!-- " ,(org-export-data (org-export-get-date info "%Y-%m-%d") info) " -->"
+            (meta (@ (charset "utf-8")))
+            (meta (@ (author "David Wilson")))
+            (meta (@ (name "viewport")
+                     (content "width=device-width, initial-scale=1, shrink-to-fit=no")))
             "
     <!-- Font Awesome -->
     <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\"  crossorigin=\"anonymous\">
