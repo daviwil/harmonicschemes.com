@@ -100,7 +100,7 @@
             (div (@ (class "blog-masthead"))
                  (div (@ (class "container"))
                       (div (@ (class "row align-items-center justify-content-between"))
-                           (div (@ (class "col-sm-8 col-md-6"))
+                           (div (@ (class "col-sm-6 col-md-6"))
                                 (nav (@ (class "nav"))
                                      (a (@ (class "nav-link") (href "/")) "About")
                                      (a (@ (class "nav-link") (href "/articles")) "Articles")))
